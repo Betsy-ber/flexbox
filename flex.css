@@ -27,7 +27,11 @@ body {
     text-align: right;
     padding-right: 10px;
     position: relative;
-    top: -45px;
+    top: -55px;
+}
+.content {
+    display: flex;
+    justify-content: flex-end;
 }
 .boxes {
     display: flex;
